@@ -1,0 +1,31 @@
+
+.btnadd {
+    background-color: green;
+
+}
+.tabstyle{
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    border-width:2px ;
+    border-color: lightblue;
+
+}
+
+.inline {
+    margin-left: 5px;
+    height:100px;
+    width:100px;
+    border-radius:100%;
+    border: 2px solid black
+
+}
+
+
+.ng-invalid.ng-dirty {
+    border-color: red;
+}
+
+.ng-valid.ng-dirty {
+    border-color: green;
+}
